@@ -1,0 +1,6 @@
+:root{
+    --cor-de-fundo:red;
+}
+body{
+    background-color: varl(--cor-de-fundo);
+}
